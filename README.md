@@ -6,23 +6,13 @@
 
 Android App Website for Weekly Plans
 
-### Realshots
-
 ![Realshots](./css/img/realshots.jpg)
-
-### Init
 
 ![Init](./css/img/init.jpg)
 
-### Add
-
 ![Add](./css/img/add.jpg)
 
-### Complete
-
 ![Complete](./css/img/complete.jpg)
-
-### Future
 
 ![Future](./css/img/future.jpg)
 
